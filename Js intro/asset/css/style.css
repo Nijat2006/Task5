@@ -1,0 +1,33 @@
+button{
+    margin-left: 598px;
+    background-color: #f45369;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 11px 20px 14px;
+    font-size: 24px;
+    color: #fff!important;
+    line-height: 30px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    transition: .3s linear;
+
+}
+h1 span{
+    color: #f45369;
+  margin-right: 10px;
+
+}
+#inp{
+    margin-top: 50px;
+   padding-left: 90px;
+}
+h1{
+    
+    display: flex;
+   margin-left: 600px;
+
+}
+#First{
+
+}
